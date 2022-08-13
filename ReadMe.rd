@@ -1,3 +1,12 @@
+ _     ___ _   _ _   ___  __ 	 ____  ____   ___   ____ ____      _    __  __ __  __ ___ _   _  ____ 
+ | |   |_ _| \ | | | | \ \/ / 	|  _ \|  _ \ / _ \ / ___|  _ \    / \  |  \/  |  \/  |_ _| \ | |/ ___|
+ | |    | ||  \| | | | |\  /  	| |_) | |_) | | | | |  _| |_) |  / _ \ | |\/| | |\/| || ||  \| | |  _ 
+ | |___ | || |\  | |_| |/  \  	|  __/|  _ <| |_| | |_| |  _ <  / ___ \| |  | | |  | || || |\  | |_| |
+ |_____|___|_| \_|\___//_/\_\ 	|_|   |_| \_\\___/ \____|_| \_\/_/   \_\_|  |_|_|  |_|___|_| \_|\____|
+                                                                                                   
+NOTE: The files are compiled in ubuntu, which may cause a problem running it directly without re-compiling it on other Operation systems i.e. macOS.
+If this issue exists, faster way to re-compile using the Makefile Commands.
+
 +-----------------------------------------------+
 |  Main Problems Explanation        		|
 +-----------------------------------------------+
